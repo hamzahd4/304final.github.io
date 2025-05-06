@@ -22,7 +22,7 @@ Tips on ethical computing use from https://www.acm.org/code-of-ethics
 It is pertinent for computing professionals to uphold and maintain integrity.   🖥️
 
 
-**Ethical Implications for CHATGPT**
+***Ethical Implications for CHATGPT***
 
 
 - Developer Bias
