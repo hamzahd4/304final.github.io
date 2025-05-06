@@ -4,7 +4,7 @@
 These principles were viewed for analysis of CHATGPT impacts on society.
 It is imperative this technology is programmed ethically for the overall well-being of society.
 General Ethical Principle in the ACM code of ethics:  A computing professional should
-Contribute to society and to human well-being, acknowledging that all people are stakeholders in computing.
+contribute to society and to human well-being, acknowledging that all people are stakeholders in computing.
 
 Fairness and transparency built into this technology will bring a positive impact for society
 
